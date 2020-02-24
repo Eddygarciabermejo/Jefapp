@@ -796,7 +796,7 @@ li.dropdown.act a.w3_icons_act {
     font-size: 30px;
     text-align: left;
     color: #FFF;
-    margin-bottom: 20px;
+    margin-bottom: 8px;
     font-weight: 700;
     letter-spacing: 1px;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.41);
@@ -806,7 +806,7 @@ li.dropdown.act a.w3_icons_act {
     font-size: 1em;
     letter-spacing: 1px;
     line-height: 1.9em;
-	margin:1em 0 2em 0;
+	margin:1em 0 1em 0;
 }
 .shop-button a {
     background: #000;
@@ -1640,7 +1640,7 @@ p.head_para {
         height: 503px;
     }
     .style-grids_main {
-        width: 90%;
+        width: 100%;
     }
     .newsletter_w3layouts_agile {
         padding: 2em 1em;
